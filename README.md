@@ -5,7 +5,7 @@
     - php, html, css, sql, js (web development)
     - assembly, c, python (basic programming language)
     - penetration tester (web)
-- 🏃‍♂️ Cyber security (web development), programming languages 💻, projects, basketball 🏀, gym 💪, and Participating in Horology events ⌚
+- 🏃‍♂️ Cyber security (web development), programming languages 💻, projects, basketball 🏀, gym 💪, and Horology enthusiast ⌚
 - 📫 How to reach me :
     - Discord : ceda8459
     - Email : salimjonathan988@gmail.com
