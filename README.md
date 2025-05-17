@@ -5,6 +5,8 @@
     - php, html, css, sql, js (web development)
     - assembly, c, python (basic programming language)
     - penetration tester (web), enganging in network security (possibly cloud computing security)
+- ⚙️ Tools :
+    - Burpsuite, nmap, sqlmap, hydra, githack, etc. 
 - 🏃‍♂️ Cyber security (web development), programming languages 💻, projects, basketball 🏀, gym 💪, and Horology enthusiast ⌚
 - 📫 How to reach me :
     - Discord : ceda8459
