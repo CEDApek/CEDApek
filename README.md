@@ -4,7 +4,8 @@
 - 🌱 Current learning path :
     - penetration tester (web + Enterprise Network), enganging in cloud security (Possibly AI security)
 - ⚙️ Tools :
-    - Burpsuite, nmap, sqlmap, hydra, githack, etc. 
+    - Enumeration : Nmap, gobuster, dirbuster, dirsearch
+    - etc. Burpsuite, sqlmap, hydra, etc. 
 - 🏃‍♂️ Cyber security (Penetration Tester) 💻, projects, basketball 🏀, gym 💪, and Horology enthusiast ⌚
 - 📫 How to reach me :
     - Discord : ceda8459
