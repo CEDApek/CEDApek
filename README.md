@@ -1,13 +1,11 @@
 - 👋 Hi, I’m CEDA
-- 🏫 Zhejiang University (ZJU) (2023-now) - Undergraduate Computer Science
-- 👀 I’m interested in Cyber Security, Specifically in Web Penetration Tester
-- 🌱 Current learning path 
-    - php, html, css, sql, js (web development)
-    - assembly, c, python (basic programming language)
-    - penetration tester (web), enganging in network security (possibly cloud computing security)
+- 🏫 Zhejiang University (ZJU) (2023-now) - Undergraduate Computer Science and Technology
+- 👀 I’m interested in Cyber Security, Specifically as Penetration Tester
+- 🌱 Current learning path :
+    - penetration tester (web + Enterprise Network), enganging in cloud security (Possibly AI security)
 - ⚙️ Tools :
     - Burpsuite, nmap, sqlmap, hydra, githack, etc. 
-- 🏃‍♂️ Cyber security (web development), programming languages 💻, projects, basketball 🏀, gym 💪, and Horology enthusiast ⌚
+- 🏃‍♂️ Cyber security (Penetration Tester) 💻, projects, basketball 🏀, gym 💪, and Horology enthusiast ⌚
 - 📫 How to reach me :
     - Discord : ceda8459
     - Email : salimjonathan988@gmail.com
