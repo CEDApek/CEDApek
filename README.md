@@ -5,7 +5,7 @@
     - penetration tester (web + Enterprise Network), enganging in cloud security (Possibly AI security)
 - ⚙️ Tools :
     - Enumeration : Nmap, gobuster, dirbuster, dirsearch
-    - Vulnerability Asseet. tools : Nexus, OpenVAS
+    - Vulnerability Assessment : Nexus, OpenVAS
     - Web Proxies : Burpsuite
     - Misc. : sqlmap, hydra, etc. 
 - 🏃‍♂️ Cyber security (Penetration Tester) 💻, projects, basketball 🏀, gym 💪, and Horology enthusiast ⌚
