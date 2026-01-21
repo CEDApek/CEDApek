@@ -6,8 +6,8 @@
 - ⚙️ Tools :
     - Enumeration : Nmap, gobuster, dirbuster, dirsearch
     - Vulnerability Assessment : Nexus, OpenVAS
-    - Web Proxies : Burpsuite
-    - Misc. : sqlmap, hydra, etc. 
+    - Web Proxies : Burpsuite, Caido, ZAP
+    - Misc. : ffuf, dirbuster, gobuster, nmap, etc.
 - 🏃‍♂️ Cyber security (Penetration Tester) 💻, projects, basketball 🏀, gym 💪, and Horology enthusiast ⌚
 - 📫 How to reach me :
     - Discord : ceda8459
