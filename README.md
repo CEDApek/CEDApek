@@ -2,7 +2,7 @@
 - 🏫 Zhejiang University (ZJU) (2023-now) - Undergraduate Computer Science and Technology
 - 👀 I’m interested in Cyber Security, Specifically Penetration Tester
 - 🌱 Current learning path :
-    - penetration tester (web + Enterprise Network), enganging in cloud security (Possibly AI security)
+    - penetration tester (WebApp Sec), enganging in Cloud Tech Sec (Possibly AI security)
 - ⚙️ Tools :
     - Enumeration : Nmap, gobuster, dirbuster, dirsearch
     - Vulnerability Assessment : Nexus, OpenVAS
