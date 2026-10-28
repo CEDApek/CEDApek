@@ -11,9 +11,3 @@
 - 🏃‍♂️ Cyber security (Penetration Tester) 💻, projects, basketball 🏀, gym 💪, and Horology enthusiast ⌚
 - 📫 How to reach me :
     - Discord : ceda8459
-    - Email : salimjonathan988@gmail.com
-    - Phone 📞 :
-        - (+62) 81223453331 (ID)
-        - (+86) 19906514117 (CN)
-    - Wechat ID : jonathansalim123
-- ⚒️ Seeking remote summer internship opporunities !!
